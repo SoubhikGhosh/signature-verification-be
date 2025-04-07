@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+numpy
+python-multipart
+google-generativeai
+psycopg2-binary
+pillow
+python-jose
+passlib
+bcrypt
+pydantic
+uuid
+python-dotenv
